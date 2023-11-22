@@ -1,0 +1,16 @@
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\bin\Debug\net481\ProjectCS.exe.config
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\bin\Debug\net481\ProjectCS.exe
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\bin\Debug\net481\ProjectCS.pdb
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.csproj.AssemblyReference.cache
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\Weather.baml
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\App.baml
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\Weather.g.cs
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\App.g.cs
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS_MarkupCompile.cache
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.g.resources
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.AssemblyInfoInputs.cache
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.AssemblyInfo.cs
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.csproj.CoreCompileInputs.cache
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.exe
+c:\Workspace\samples\wpf\Threading\Weather\net48\csharp\obj\Debug\net481\ProjectCS.pdb

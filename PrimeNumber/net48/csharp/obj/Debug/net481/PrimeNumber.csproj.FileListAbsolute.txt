@@ -1,0 +1,15 @@
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\bin\Debug\net481\PrimeNumber.exe.config
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\bin\Debug\net481\PrimeNumber.exe
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\bin\Debug\net481\PrimeNumber.pdb
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.csproj.AssemblyReference.cache
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.baml
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.g.cs
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\App.g.cs
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber_MarkupCompile.cache
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.g.resources
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.AssemblyInfoInputs.cache
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.AssemblyInfo.cs
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.csproj.CoreCompileInputs.cache
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.exe
+c:\Workspace\samples\wpf\Threading\PrimeNumber\net48\csharp\obj\Debug\net481\PrimeNumber.pdb

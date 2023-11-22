@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGA1D5GEN8iDMGe0uSwP45usZGu+Zj4E9gQjPyfMdLeahE5eKmvAWL1fWzq3562GoIfOAXmdChbaapSGR1iaGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\samples\\wpf\\Threading\\PrimeNumber\\net48\\csharp\\PrimeNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
